@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "es6-collections": {
+      "version": "0.5.1"
+    }
+  }
+}
